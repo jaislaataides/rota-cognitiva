@@ -7,7 +7,7 @@ Este projeto tem como objetivo praticar os conhecimentos adquiridos nos estudos 
 ## Contexto :memo:
 O propósito dessa api é a gamificação de planos de carreira, atomizando as metas e incentivando competitividade de forma similar ao *GymRats* 🐭.
 
-## Bounded Contexts :dart:
+### Bounded Contexts :dart:
 
 | **Contexto**     | **Responsabilidade**                                                              | **Entidades Principais**           | **Depende de**          | **Tipo de Dependência**            |
 | ---------------- | --------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ---------------------------------- |
