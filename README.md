@@ -1,11 +1,11 @@
 
 # Rota Cognitiva :brain: :trophy: :checkered_flag:
-Este projeto tem como objetivo praticar os conhecimentos adquiridos nos estudaos de *Domain Driven Design*. 
+Este projeto tem como objetivo praticar os conhecimentos adquiridos nos estudos de *Domain Driven Design*. 
 
 ![Rota Cognitiva](extras/image.png)
 
 ## Contexto :memo:
-Esse projeto tem como propósito a gamificação de planos de carreira, atomizando as metas e incentivando competitividade de forma similar ao *GymRats* 🐭.
+O propósito dessa api é a gamificação de planos de carreira, atomizando as metas e incentivando competitividade de forma similar ao *GymRats* 🐭.
 
 ## Bounded Contexts
 
